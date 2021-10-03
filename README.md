@@ -11,7 +11,7 @@ We need to get a monthly report on the percentage of successful transactions and
 We also need the average monthly spend (Consider only the successful transactions) using the credit card in the monthly report.
 
 # Proposed Solution
-The solution is built on AWS cloud.
+The proposed data pipeline is built on AWS cloud.
 
 
 ![dataPipeline](/resources/AWS-case-2-diag.png)
