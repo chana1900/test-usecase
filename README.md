@@ -12,3 +12,6 @@ We also need the average monthly spend (Consider only the successful transaction
 
 # Proposed Solution
 
+
+
+![dataPipeline](/resources/AWS-case-2-diag.png)
