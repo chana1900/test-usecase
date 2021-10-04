@@ -13,6 +13,10 @@ We also need the average monthly spend (Consider only the successful transaction
 # Proposed Solution
 The proposed data pipeline is built on AWS cloud.
 
+###### Assumptions
+* Payment gateway event has a relavant credit card transaction.
+* Customer Information (Email, Phone Number etc.) are stored in MySQL database
+* Lambda implementation is done with adequate error handling and loging.
 
 ![dataPipeline](/resources/AWS-case-2-diag.png)
 
